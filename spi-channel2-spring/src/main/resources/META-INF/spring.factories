@@ -1,0 +1,1 @@
+com.qindaorong.spi.api.IMessageChannel=com.qindaorong.spi.impl.SpringSecondMessageChannel
